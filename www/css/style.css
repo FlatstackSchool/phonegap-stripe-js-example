@@ -1,0 +1,117 @@
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, button, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+fieldset, img {
+  border: 0; }
+
+addres, caption, cite, code, dfh, em, strong, th, var, optgroup {
+  font-style: normal;
+  font-weight: normal; }
+
+del, ins {
+  text-decoration: none; }
+
+ol, ul, li {
+  list-style: none; }
+
+caption, th {
+  text-align: left; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: normal; }
+
+b, strong {
+  font-weight: bold; }
+
+q:before, q:after {
+  content: ' '; }
+
+abbr, acronym {
+  border: 0;
+  font-variant: normal; }
+
+@font-face {
+  font-family: "ITC-Bk";
+  src: url("fonts/ITCAvantGardeStd-Bk.otf"); }
+
+@font-face {
+  font-family: "ITC-BkCn";
+  src: url("fonts/ITCAvantGardeStd-BkCn.otf"); }
+
+@font-face {
+  font-family: "ITC-BkCnObl";
+  src: url("fonts/ITCAvantGardeStd-BkCnObl.otf"); }
+
+@font-face {
+  font-family: "ITC-BkObl";
+  src: url("fonts/ITCAvantGardeStd-BkObl.otf"); }
+
+@font-face {
+  font-family: "ITC-Bold";
+  src: url("fonts/ITCAvantGardeStd-Bold.otf"); }
+
+@font-face {
+  font-family: "ITC-BoldCn";
+  src: url("fonts/ITCAvantGardeStd-BoldCn.otf"); }
+
+@font-face {
+  font-family: "ITC-BoldCnObl";
+  src: url("fonts/ITCAvantGardeStd-BoldCnObl.otf"); }
+
+@font-face {
+  font-family: "ITC-BoldObl";
+  src: url("fonts/ITCAvantGardeStd-BoldObl.otf"); }
+
+@font-face {
+  font-family: "ITC-Demi";
+  src: url("fonts/ITCAvantGardeStd-Demi.otf"); }
+
+@font-face {
+  font-family: "ITC-DemiCn";
+  src: url("fonts/ITCAvantGardeStd-DemiCn.otf"); }
+
+@font-face {
+  font-family: "ITC-DemiCnObl";
+  src: url("fonts/ITCAvantGardeStd-DemiCnObl.otf"); }
+
+@font-face {
+  font-family: "ITC-DemiObl";
+  src: url("fonts/ITCAvantGardeStd-DemiObl.otf"); }
+
+@font-face {
+  font-family: "ITC-Md";
+  src: url("fonts/ITCAvantGardeStd-Md.otf"); }
+
+@font-face {
+  font-family: "ITC-MdCn";
+  src: url("fonts/ITCAvantGardeStd-MdCn.otf"); }
+
+@font-face {
+  font-family: "ITC-MdCnObl";
+  src: url("fonts/ITCAvantGardeStd-MdCnObl.otf"); }
+
+@font-face {
+  font-family: "ITC-MdObl";
+  src: url("fonts/ITCAvantGardeStd-MdObl.otf"); }
+
+@font-face {
+  font-family: "ITC-XLt";
+  src: url("fonts/ITCAvantGardeStd-XLt.otf"); }
+
+@font-face {
+  font-family: "ITC-XLtCn";
+  src: url("fonts/ITCAvantGardeStd-XLtCn.otf"); }
+
+@font-face {
+  font-family: "ITC-XLtCnObl";
+  src: url("fonts/ITCAvantGardeStd-XLtCnObl.otf"); }
+
+@font-face {
+  font-family: "ITC-XLtObl";
+  src: url("fonts/ITCAvantGardeStd-XLtObl.otf"); }
